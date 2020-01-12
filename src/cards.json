@@ -2,86 +2,52 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "name": "Musketeers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8y6xT0Nu_3f3hjI1CFB6ZhsuL4WBcqemmDSj09_ucL2-i37Yj&s"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "name": "Reds",
+      "image": "https://content.sportslogos.net/logos/54/56/full/z9e0rqit393ojiizsemd0t1hx.png"
     },
-    {
+    { 
       "id": 3,
-      "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "name": "Cyclones",
+      "image": "https://content.sportslogos.net/logos/14/1930/full/4139_cincinnati_cyclones-primary-2015.png"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "name": "Bearcats",
+      "image": "http://content.sportslogos.net/logos/30/642/full/4024_cincinnati_bearcats-alternate-2006.png"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "name": "Royals",
+     "image": "http://content.sportslogos.net/logos/6/247/full/5380.png"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "name": "Stingers",
+      "image": "http://content.sportslogos.net/logos/12/358/full/rqewym1ee7zgmjpc86gv7cdyg.gif"      
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "name": "Bengals",
+      "image": "http://content.sportslogos.net/logos/7/154/full/403.png"      
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
+      "name": "FC Cincy",
+      "image": "https://cincinnati-mp7static.mlsdigital.net/styles/image_landscape/s3/images/mls-release-primaryv2.jpg?.DOhRvoZDKZKfn3n5ZtoYPjInpVKui_L&itok=dfvV3rSr&c=08ce797bb0b111f4ccfb5e64e152df15"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-      "occupation": "Adventurer",
-      "location": "California"
+      "name": "Bearcats Football",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71jWzV1S_WqKulbzSlYqjafAt31KIMdXQZkG_IFPJ1qcP7dz2Vw&s"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
-    },
-    {
-      "id": 11,
-      "name": "Captain Planet",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-      "occupation": "Superhero",
-      "location": "Earth"
-    },
-    {
-      "id": 12,
-      "name": "Ickis",
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "name": "Old School Bearcats",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fIPU2UUfCUf2sxUfSL5_-07houRlZnsJQ-6IsS-Mh6RBG6Ff&s"
     }
   ]
