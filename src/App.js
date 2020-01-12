@@ -21,7 +21,7 @@ class App extends Component {
     this.setState({cards: shuffledArray});
     // if clicked an image already clicked set this.state.score = 0; empty clickeadArray, end of if block
     if (this.state.clickedArray.includes(id)) {
-      this.setState({ score: 0, clickedArray: [], message: "Incorrect!! Game Over ☹️ Click an image to start again!", shakeit: "true"});
+      this.setState({ score: 0, clickedArray: [], message: "Incorrect!! Game Over! Click an image to start again!", shakeit: "true"});
     }
     else {
       this.setState({
