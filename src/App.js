@@ -63,7 +63,7 @@ class App extends Component {
             <PictureCard
               clickPicture={this.clickPicture}
               id={picture.id}
-              key={picture.id} // to get rid of unique key prop warning
+              key={picture.id}
               name={picture.name}
               image={picture.image}
             />
