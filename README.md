@@ -1,5 +1,5 @@
 # ClickyGame
-Sports Clicky Game
+
 Memory game using React JS library. Components state is managed to respond to user events.
 
 The application renders different images to the screen. Each image listens for click events.
