@@ -27,7 +27,7 @@ class App extends Component {
       this.setState({
         clickedArray: this.state.clickedArray.concat([id]),
         score: this.state.score + 1,
-        message: "Correct!! 🙂",
+        message: "Correct!!",
         shakeit: "false"
       });
     }
