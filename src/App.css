@@ -1,0 +1,41 @@
+  
+.App {
+    text-align: center;
+    background-image: url("https://facebookjournalismproject.com/wp-content/uploads/2019/09/SoapboxCincinnati_16x9.jpg?w=2880&h=1620&crop=1");
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+    padding: 20px;
+    color: darkblue;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    background-color: rgb(24, 21, 21);
+    color: white;
+  }
+  .score {
+    color: rgba(14, 90, 233, 0.986);
+  }
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
